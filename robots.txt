@@ -1,0 +1,4 @@
+﻿User-agent:*
+Disallow:
+
+Sitemap:http://www.mmq99.cn/sitemap.xml
